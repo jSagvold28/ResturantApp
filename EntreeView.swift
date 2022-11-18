@@ -39,12 +39,12 @@ struct EntreeView: View {
                     .bold()
                 Text("No dressings avabile")
                     .foregroundColor(.secondary)
-    
-                }
-                
             }
-        }
-    }
+                }
+            }
+                }
+    
+                
 
 struct EntreeView_Previews: PreviewProvider {
     static var previews: some View {
